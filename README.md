@@ -31,6 +31,7 @@ I have a bachelor's degree in Biology with a major in Ecology and a minor in Dat
 A group project building an ArcGIS StoryMap that communicates landslide risk in
 Norway and the need for proper mapping of risk zones.
 An example from the storymap is shown below:
+
 <img width="602" height="383" alt="landslide" src="https://github.com/user-attachments/assets/4d3f1e47-217f-41d1-b8cd-22763e12dfc1" />
 
 ![Landslide risk StoryMap, Norway](images/project1.png)
@@ -66,12 +67,11 @@ areas, using geo-datasets, scripting, and interactive visualization.
      it's left out here. Add a public GitHub link once you've mirrored it. -->
 - 🔗 *Repository: coursework hosted on the private WUR GitLab (link on request).*
 
-<!-- Copy a project block above to add more. The ![...](images/...) line is
-     where a picture appears — see images/HOW-TO-ADD-IMAGES.md. -->
+
 
 ---
 
 
 ## 📫 Get in touch
-Open to collaboration and opportunities in GIS and remote sensing.
+Want to get in contact? 
 Reach me at **joelle.vandrie@wur.nl**.
