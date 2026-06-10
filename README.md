@@ -34,7 +34,6 @@ An example from the storymap is shown below:
 
 <img width="602" height="383" alt="landslide" src="https://github.com/user-attachments/assets/4d3f1e47-217f-41d1-b8cd-22763e12dfc1" />
 
-![Landslide risk StoryMap, Norway](images/project1.png)
 
 - **Role:** Map design and StoryMap creation
 - **Tools:** ArcGIS Pro
@@ -46,7 +45,6 @@ A group assignment to determine the most suitable route for new pipelines using
 a multi-criteria, condition-based analysis.
 
 <img width="602" height="424" alt="geotools" src="https://github.com/user-attachments/assets/b62bc4d6-b0ee-4d2d-be92-9d6d397b3c52" />
-![Suitability analysis for pipeline routing](images/geotools.png)
 
 - **Role:** Spatial analysis and mapping
 - **Tools:** ArcGIS Pro
@@ -58,13 +56,10 @@ forest-cover loss and oil palm planting occur outside designated concession
 areas, using geo-datasets, scripting, and interactive visualization.
 
 <img width="1469" height="714" alt="forestmap" src="https://github.com/user-attachments/assets/07714627-b091-4a3d-a3df-b5bb6abd592d" />
-![Forest-cover loss and oil palm concession map, Indonesia](images/forestmap.png)
 
 - **Role:** Data analysis, scripting, and visualization
 - **Tools:** R (Shiny, sf, terra, dplyr), Python
 - **Result:** See the map above.
-<!-- The original repo is on git.wur.nl, which is private (login required), so
-     it's left out here. Add a public GitHub link once you've mirrored it. -->
 - 🔗 *Repository: coursework hosted on the private WUR GitLab (link on request).*
 
 
