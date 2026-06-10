@@ -1,4 +1,4 @@
-# Hi, I'm Joëlle van Drie 👋
+# Portfolio Joëlle van Drie
 
 **Geo-Information Scientist** · GIS · Remote Sensing · Spatial Data Analysis
 
