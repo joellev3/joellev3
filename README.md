@@ -2,11 +2,10 @@
 
 **Geo-Information Scientist** · GIS · Remote Sensing · Spatial Data Analysis
 
-I work at the intersection of geography and data, turning spatial information
-into maps, models, and insight — with a focus on spatial analysis, remote
-sensing, and geo-scripting.
+I am currently a MSc student in Geo-Information Science at Wageningen University & Research. 
+I have a bachelor's degree in Biology with a major in Ecology and a minor in Data Science from the same university. 
 
-📍 Nijkerk, The Netherlands &nbsp;·&nbsp; 🎓 MSc Geo-Information Science / Wageningen University & Research &nbsp;·&nbsp; 📫 joelle.vandrie@wur.nl
+📍 Nijkerk, The Netherlands &nbsp;·&nbsp; 🎓 MSc Geo-Information Science at Wageningen University & Research &nbsp;·&nbsp; 📫 joelle.vandrie@wur.nl
 
 [LinkedIn](https://www.linkedin.com/in/joellevdrie) ·
 [Email](mailto:joelle.vandrie@wur.nl)
@@ -31,6 +30,8 @@ sensing, and geo-scripting.
 ### 1. Landslides in Norway
 A group project building an ArcGIS StoryMap that communicates landslide risk in
 Norway and the need for proper mapping of risk zones.
+An example from the storymap is shown below:
+<img width="602" height="383" alt="landslide" src="https://github.com/user-attachments/assets/4d3f1e47-217f-41d1-b8cd-22763e12dfc1" />
 
 ![Landslide risk StoryMap, Norway](images/project1.png)
 
@@ -43,11 +44,11 @@ Norway and the need for proper mapping of risk zones.
 A group assignment to determine the most suitable route for new pipelines using
 a multi-criteria, condition-based analysis.
 
+<img width="602" height="424" alt="geotools" src="https://github.com/user-attachments/assets/b62bc4d6-b0ee-4d2d-be92-9d6d397b3c52" />
 ![Suitability analysis for pipeline routing](images/geotools.png)
 
 - **Role:** Spatial analysis and mapping
 - **Tools:** ArcGIS Pro
-- **Result:** See the map above for the resulting optimal route.
 
 
 ### 3. Oil Palm Concession Mismatches, Indonesia
@@ -55,6 +56,7 @@ Identifying commodity concession mismatches in Indonesia — uncovering where
 forest-cover loss and oil palm planting occur outside designated concession
 areas, using geo-datasets, scripting, and interactive visualization.
 
+<img width="1469" height="714" alt="forestmap" src="https://github.com/user-attachments/assets/07714627-b091-4a3d-a3df-b5bb6abd592d" />
 ![Forest-cover loss and oil palm concession map, Indonesia](images/forestmap.png)
 
 - **Role:** Data analysis, scripting, and visualization
