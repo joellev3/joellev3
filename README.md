@@ -11,7 +11,7 @@ I have a bachelor's degree in Biology with a major in Ecology and a minor in Dat
 [Email](mailto:joelle.vandrie@wur.nl)
 
 ---
-
+## 🌐 [View my portfolio](https://joellev3.github.io)
 
 ## 🛠️ Skills & Tools
 
@@ -20,9 +20,6 @@ I have a bachelor's degree in Biology with a major in Ecology and a minor in Dat
 | **GIS** | ArcGIS Pro |
 | **Remote Sensing** | Google Earth Engine |
 | **Programming** | Python, R, SQL |
-
-
-## 🌐 [View my portfolio website →](https://joellev3.github.io)
 
 
 ## 📫 Get in touch
